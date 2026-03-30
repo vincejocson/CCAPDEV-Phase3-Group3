@@ -227,6 +227,12 @@ The system includes sample data for testing:
 4. Test thoroughly
 5. Submit a pull request
 
+## Contributors
+1. Kyle Maristela
+2. Vince Jocson
+3. Benjamin Barlaan
+4. Gerylyn Guiller
+
 ## License
 
 This project is developed as part of the CCAPDEV course at De La Salle University.
